@@ -10,7 +10,7 @@ Legion Extension that connects LegionIO to GitLab via the REST API. Provides run
 
 **GitHub**: https://github.com/LegionIO/lex-gitlab
 **License**: MIT
-**Version**: 0.1.0
+**Version**: 0.1.2
 
 ## Architecture
 
